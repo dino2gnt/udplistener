@@ -1,5 +1,7 @@
 # udplistener
 
+A command-line utility that creates a UDP socket on a specified interface and port and listens for packets from a specific host, or any host, on that port.
+
 ```
 $ javac udplistener.java
 $ java -classpath . udplistener
